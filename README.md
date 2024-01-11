@@ -1,6 +1,6 @@
 ![logo](https://github.com/shikhasingh0101/shikhasingh0101/blob/main/Navy%20Blue%20Futuristic%20Virtual%20Technology%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shikha Singh</h1>
-<h3 align="center">A passionate Computer Science student.</h3>
+<h3 align="center">A passionate Computer Science Engineering student.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikhasingh0101&label=Profile%20views&color=0e75b6&style=flat" alt="shikhasingh0101" /> </p>
