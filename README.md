@@ -31,7 +31,7 @@
     <a href="https://www.behance.net/shikhasingh64" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shikhasingh64" height="30" width="40" />
     </a>
-    <a href="www.youtube.com/@Shikha_Singh0101" target="blank">
+    <a href="https://www.youtube.com/@Shikha_Singh0101" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Shikha_Singh0101" height="30" width="40" />
     </a>
     <a href="https://www.youtube.com/@Shikha_Singh0101" target="blank">
